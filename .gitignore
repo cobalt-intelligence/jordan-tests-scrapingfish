@@ -1,0 +1,10 @@
+dist/
+node_modules/
+.env
+*.csv
+sitemaps/
+*.zip
+.np
+.npmrc
+screenshots/
+token.json
